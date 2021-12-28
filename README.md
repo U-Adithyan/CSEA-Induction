@@ -1,4 +1,4 @@
-Change the working directory to **code folder**  
+Change the working directory to the correct Folder  
 To Run the code Implement the following commands  
 1.pip install flask  
 2.pip install sqlalchemy  
