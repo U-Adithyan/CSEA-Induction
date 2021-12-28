@@ -1,3 +1,5 @@
+# code.init() registration
+##### How to Run
 Change the working directory to the correct Folder  
 To Run the code Implement the following commands  
 1.pip install flask  
